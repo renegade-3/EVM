@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586183175 source:c:\users\jai\desktop\evm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586250199 source:c:\users\jai\desktop\evm\votes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
